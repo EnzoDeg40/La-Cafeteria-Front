@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap");
+body {
+  font-family: "Readex Pro", serif;
+  outline: none;
+}
+
+h1, p {
+  margin: 0;
+}
+
+h1 {
+  color: #C4AC7C;
+  font-weight: 600;
+}
+
+p {
+  color: #686868;
+  font-size: 16px;
+}
+
+p.light {
+  color: #FFFFFF;
+}
+
+p.tiny {
+  margin-top: 5px;
+  font-size: 8px;
+}
+
+input, button {
+  padding: 12px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+input {
+  border: 1px solid #C4AC7C;
+  max-width: 275px;
+  color: #686868;
+  font-size: 12px;
+}
+
+button {
+  background-color: #C4AC7C;
+  max-width: 190px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+}
+
+button.light {
+  background-color: #FFFFFF;
+  color: #C4AC7C;
+}
+
+.empty-max {
+  flex: 1;
+}
+
+.empty {
+  height: 26px;
+}/*# sourceMappingURL=coffee.css.map */

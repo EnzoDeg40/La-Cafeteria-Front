@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(180deg, #FFFFFF 23.65%, #C4AC7C 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 100vh;
+    margin: 0;
+
+    text-align: center;
+    
+}
+
+.login-logo{
+    width: 100%;
+    max-width: 84px;
+}
+
